@@ -225,7 +225,7 @@ public:
 };
 
 class ArtSociety : public Society
-{l
+{
 public:
     ArtSociety() : Society("Art") {}
 
